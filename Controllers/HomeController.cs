@@ -17,7 +17,7 @@ namespace HelloJenkins.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Hello Auzre DevOps Pipeline.";
 
             return View();
         }
